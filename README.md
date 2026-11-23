@@ -1,2 +1,3 @@
-# day7-git-practice
+﻿# day7-git-practice
 Practice repository for Day 7
+About: practice repo for Day 7.
